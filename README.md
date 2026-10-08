@@ -1,6 +1,7 @@
 # Ejercicios-PHP
-Repositorio para guardar ejercicios de php en bachillerato en 2025 
-![elephant :P](https://i.pinimg.com/originals/93/25/4d/93254db425f0b9550179ac0f7b7d9030.gif)
+Repositorio para guardar ejercicios de php en bachillerato en 2025
+<img src="https://i.pinimg.com/originals/93/25/4d/93254db425f0b9550179ac0f7b7d9030.gif" alt="elefant" width="300" height="200">
+
 
 El repositorio consiste en dos partes, algunos ejercicios están hechos con bases de datos y otros no lo tienen.
 
@@ -9,18 +10,15 @@ El repositorio consiste en dos partes, algunos ejercicios están hechos con base
 - [Docker](https://docs.docker.com/get-docker/) instalado (incluye `docker compose`)
 ### Cómo ejecutarlos
 1. Abrí una terminal y entrá a la carpeta del proyecto:
-```bash
-   cd con_base_de_datos/<nombre-del-proyecto>
-```
+`cd con_base_de_datos/<nombre-del-proyecto>
+`
 2. Levantá los contenedores:
-```bash
-   docker compose up
-```
+  `docker compose up`
 3. Esperá a que termine de arrancar y abrí en el navegador la URL de la tabla de abajo.
 4. Para detenerlo, presioná `Ctrl + C` y después:
-```bash
+`
    docker compose down
-```
+`
 ### URLs de cada proyecto
 | Proyecto    | Qué hace          | URL                                       |
 | ----------- | ----------------- | ----------------------------------------- |
