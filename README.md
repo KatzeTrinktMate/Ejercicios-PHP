@@ -1,9 +1,6 @@
 # Ejercicios-PHP
 Repositorio para guardar ejercicios de php en bachillerato en 2025
-<img src="https://i.pinimg.com/originals/93/25/4d/93254db425f0b9550179ac0f7b7d9030.gif" alt="elefant" width="300" height="200">
-
-
-El repositorio consiste en dos partes, algunos ejercicios están hechos con bases de datos y otros no lo tienen.
+El repositorio consiste en dos partes, algunos ejercicios están hechos con bases de datos y otros no lo tienen.<img src="https://i.pinimg.com/originals/93/25/4d/93254db425f0b9550179ac0f7b7d9030.gif" alt="elefant" width="50" height="50">
 
 ## Proyectos con base de datos
 ### Requisitos
